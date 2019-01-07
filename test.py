@@ -1,2 +1,2 @@
 # test.py
-print("hello")
+print("test")
